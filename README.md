@@ -7,7 +7,7 @@ A Python script that watches your screenshots folder, extracts the top-left task
 ## ⚙️ How It Works
 
 1. Monitors `~/Pictures/Screenshots` for new screenshots.
-2. Whenever a new screenshot is taken, it sends the image to Claude 3 with a prompt to identify the task in the image and return the solution.
+2. Whenever a new screenshot is taken, program sends the image to Claude 3 with a prompt to identify the task in the image and return the solution.
 3. Sends the answer to `ntfy.sh` topic, which will show up on phone.
 
 ---
@@ -15,8 +15,8 @@ A Python script that watches your screenshots folder, extracts the top-left task
 ## 🧩 Requirements
 
 - Python 3.8+
-- [Anthropic API key](https://www.anthropic.com/)
-- A topic name for [ntfy.sh](https://ntfy.sh/)
+- Anthropic account with balance
+- ntfy.sh account (free)
 
 ## Setup
 

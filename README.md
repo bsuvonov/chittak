@@ -18,7 +18,7 @@ A Python script that watches your screenshots folder, extracts the top-left task
 - Anthropic account with balance
 - ntfy.sh account (free)
 
-## Setup
+## 🛠️ Setup
 
 1. Run the following commands:
 ```bash
@@ -42,7 +42,7 @@ ANTHROPIC_API_KEY=<your-anthropic-api-key>
 NTFY_TOPIC=<your-ntfy-topic-name>
 ```
 
-## How to use
+## 🚀 How to use
 1. Run the script on terminal:
 ```python
 python main.py

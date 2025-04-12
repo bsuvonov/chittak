@@ -3,7 +3,6 @@ import anthropic
 import base64
 import time
 import os
-import subprocess
 from dotenv import load_dotenv
 from watchdog.observers import Observer
 from watchdog.events import FileSystemEventHandler

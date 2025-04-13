@@ -1,6 +1,6 @@
 # Chittak (Claude 3 + NTFY)
 
-A Python script that watches your screenshots folder, extracts the top-left task from new images using **Claude 3 Vision**, and sends the answer to your **ntfy.sh** channel.
+A Python script to pass online monitored exams
 
 ---
 
@@ -50,3 +50,7 @@ python main.py
 2. Start your online exam.
 3. Take a screenshot of the problem (make sure the entire problem fits on the screen).
 4. Wait a few seconds — you’ll receive the solution directly on your phone via the ntfy.sh app.
+
+## Future improvements
+
+Implement a new feature to get or crawl the web page, analyze and solve all the problems on web page and show them on phone at once.

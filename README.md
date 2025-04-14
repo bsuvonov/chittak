@@ -6,6 +6,8 @@ A Python script to pass online monitored exams
 
 ## ⚙️ How It Works
 
+https://github.com/user-attachments/assets/6d2683a9-b104-464d-a512-ff76fe5b60f6
+
 1. Monitors `~/Pictures/Screenshots` for new screenshots.
 2. Whenever a new screenshot is taken, program sends the image to Claude 3 with a prompt to identify the task in the image and return the solution.
 3. Sends the answer to `ntfy.sh` topic, which will show up on phone.

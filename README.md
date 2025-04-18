@@ -50,7 +50,7 @@ NTFY_TOPIC=<your-ntfy-topic-name>
 python main.py
 ```
 2. Start your online exam.
-3. Take a screenshot of the problem (make sure the entire problem fits on the screen).
+3. Take a screenshot of the problem (make sure the entire problem fits on the screen, you can press Shift + Prt Sc on Ubuntu to take a screenshot with no disruptions).
 4. Wait a few seconds — you’ll receive the solution directly on your phone via the ntfy.sh app.
 
 ## Future improvements

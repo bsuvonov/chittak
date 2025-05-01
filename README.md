@@ -38,11 +38,6 @@ touch .env
   ANTHROPIC_API_KEY=<your-anthropic-api-key>
   NTFY_TOPIC=<your-ntfy-topic-name>
   ```
-5. Go to www.anthropic.com and get an API key. Go to ntfy.sh, create an account and create a new topic. Put your anthropic API key and ntfy.sh topic name into .env file in this format:
-```
-ANTHROPIC_API_KEY=<your-anthropic-api-key>
-NTFY_TOPIC=<your-ntfy-topic-name>
-```
 
 ## 🚀 How to use
 1. Run the script on terminal:
